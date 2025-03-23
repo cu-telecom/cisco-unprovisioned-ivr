@@ -10,7 +10,7 @@ This work was heavily inspired by joe_z's excellent [Cisco ISR notes](http://www
 
 ## Configuration
 
-Copy the unprovisioned_announce.tcl script and media files to a Cisco ISR using your preferred method.
+Copy the unprovisioned_announce.tcl script and media files to a Cisco ISR using your preferred method. Note that the media directory should maintain the structure, e.g flash:/media/en
 
 Then define the application:
 ```
