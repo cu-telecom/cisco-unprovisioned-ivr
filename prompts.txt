@@ -1,0 +1,12 @@
+your_circuit_id: your circuit I.D is
+en_zero: zero
+en_one: one
+en_two: two
+en_three: three
+en_four: four
+en_five: five
+en_six: six
+en_seven: seven
+en_eight: eight
+en_nine: nine
+
